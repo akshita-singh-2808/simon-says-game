@@ -24,3 +24,5 @@ The Simon Says game is a classic memory game where players must repeat a sequenc
 3. Once the sequence is finished, click the colors in the same order.
 4. If you correctly repeat the sequence, the game will add another step to the sequence and continue.
 5. If you make a mistake, the game will end, and you can start a new game.
+
+https://simonscript.netlify.app/   click the link to play the game.
